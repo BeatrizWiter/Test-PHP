@@ -1,0 +1,13 @@
+{
+    "name": "admin/teste-projeto",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
